@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ClementGains
 - 👀 I’m interested in Data analytics,Metadata analytics..
 - 🌱 I’m currently learning Data analysis
-- 💞️ I’m looking to collaborate on data analysis projects,and solve prblems using data
+- 💞️ I’m looking to collaborate on data analysis projects,and solve problems using data
 - 📫 How to reach me through gainsclement@gmail.com
 
 <!---
