@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ClementGains
+- 👋 Hi, fvvrr
 - 👀 I’m interested in Data analytics,Metadata analytics..
 - 🌱 I’m currently learning Data analysis
 - 💞️ I’m looking to collaborate on data analysis projects,and solve problems using data
